@@ -1,0 +1,13 @@
+# .gitignore
+__pycache__/
+*.pyc
+build/
+*.bin
+*.ckpt
+*.onnx
+*.pt
+*.pth
+*.tflite
+*.npz
+models/
+.env
